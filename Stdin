@@ -1,0 +1,4 @@
+To imply the end of a standard input, you have to supply an EOF to it.
+The EOF(End of File) is not the same in different OS.
+Windows    CTRL+Z
+Linux/Mac  CTRL/CMD-D
